@@ -1,5 +1,7 @@
 # Neki-IT-Challange
 
+<b>Developed by:</b> Yuri M. Corrêa
+
 Herouku APP: 
 </br> 
 https://nekit-desafio.herokuapp.com/
